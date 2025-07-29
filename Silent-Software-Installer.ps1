@@ -32,7 +32,7 @@
     Tested on: Windows 10 / Windows Server 2016  
     Useful for post-deployment automation or workstation provisioning in German-language environments.
 
-    Variable guidance:
+    Variables:
     - $DownloadFolder: Path where installers are saved.
     - $CreateLogFile: Path to the log file.
     - $RestartComputer: If $true, restarts the machine after completion.
